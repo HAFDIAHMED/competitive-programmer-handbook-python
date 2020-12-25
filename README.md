@@ -1,7 +1,6 @@
 # Competitive-Programmer-Handbook-Python
 #Ahtors :AHMED HAFDI
 
-[![GitHub forks](https://img.shields.io/github/forks/abhishekgahlot/competitive-programmer-handbook-python?style=social)](https://github.com/abhishekgahlot/competitive-programmer-handbook-python/network) [![GitHub stars](https://img.shields.io/github/stars/abhishekgahlot/competitive-programmer-handbook-python?style=social)](https://github.com/abhishekgahlot/competitive-programmer-handbook-python/stargazers) 
 
 Python 3 Implementation
 
